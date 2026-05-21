@@ -1,6 +1,6 @@
-# Governance Coordination Tracker
+# 📊 Governance Coordination Tracker
 
-## Overview
+## 📌 Overview
 
 This project is an Excel-based governance and committee coordination tracking system designed to support executive offices, governance teams, operations units, and committee administration environments.
 
@@ -10,21 +10,21 @@ The project was developed to reflect a practical governance and coordination rep
 
 ---
 
-## Features
+## ✅ Features
 
-- Executive governance dashboard
-- KPI reporting and summary metrics
-- Committee and meeting oversight
-- Governance action tracking
-- RAG status monitoring
-- Upcoming meeting visibility
-- Action delivery performance tracking
-- Structured operational workbook design
-- Executive-style dashboard reporting
+- 📈 Executive governance dashboard
+- 📊 KPI reporting and summary metrics
+- 🏛️ Committee and meeting oversight
+- ✔️ Governance action tracking
+- 🚦 RAG status monitoring
+- 📅 Upcoming meeting visibility
+- ⏱️ Action delivery performance tracking
+- 📂 Structured operational workbook design
+- 🧭 Executive-style dashboard reporting
 
 ---
 
-## Workbook Structure
+## 📑 Workbook Structure
 
 | Worksheet | Purpose |
 |---|---|
@@ -37,27 +37,27 @@ The project was developed to reflect a practical governance and coordination rep
 
 ---
 
-## Dashboard Highlights
+## 📊 Dashboard Highlights
 
 The dashboard includes:
 
-- Governance KPI summary metrics
-- Action status overview
-- Action delivery performance reporting
-- Upcoming governance meetings
-- Governance RAG monitoring
-- Operational oversight indicators
+- 📌 Governance KPI summary metrics
+- 📈 Action status overview
+- ⏱️ Action delivery performance reporting
+- 📅 Upcoming governance meetings
+- 🚦 Governance RAG monitoring
+- 📋 Operational oversight indicators
 
 ---
 
-## Files Included
+## 📁 Files Included
 
-- Executive_Governance_Coordination_Tracker.xlsx
-- Executive_Governance_Dashboard.pdf
+- 📘 Executive_Governance_Coordination_Tracker.xlsx
+- 📄 Executive_Governance_Dashboard.pdf
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
 - Tables and structured references
@@ -69,7 +69,7 @@ The dashboard includes:
 
 ---
 
-## Purpose of the Project
+## 🎯 Purpose of the Project
 
 This project was created to demonstrate practical governance coordination, operational reporting, and executive support capabilities relevant to roles such as:
 
@@ -83,6 +83,6 @@ This project was created to demonstrate practical governance coordination, opera
 
 ---
 
-## Author
+## 👩‍💼 Author
 
 Elizabeth Dunphy
