@@ -50,8 +50,8 @@ The dashboard includes:
 
 ## 📁 Files Included
 
-- 📘 Executive_Governance_Coordination_Tracker.xlsx
-- 📄 Executive_Governance_Dashboard.pdf
+- 📘 Governance Coordination Tracker.xlsx
+- 📄 Executive Governance Dashboard.pdf
 
 ---
 
