@@ -2,11 +2,9 @@
 
 ## 📌 Overview
 
-This project is an Excel-based governance and committee coordination tracking system designed to support executive offices, governance teams, operations units, and committee administration environments.
+This dashboard was designed to help organisations manage governance activities, committee actions, meetings and operational reporting.
 
-The workbook demonstrates how governance activities, meetings, actions, and reporting can be managed through structured operational tracking and executive dashboard reporting.
-
-The project was developed to reflect a practical governance and coordination reporting environment.
+It provides a structured approach to tracking governance activities, monitoring progress and supporting effective organisational coordination and decision-making through executive reporting and dashboard visualisation.
 
 ---
 
@@ -66,23 +64,20 @@ The dashboard includes:
 - Dashboard design
 - KPI reporting
 - Executive reporting principles
+- Process tracking
 
 ---
 
-## 🎯 Purpose of the Project
+## 🎯 Skills Demonstrated
 
-This project was created to demonstrate practical governance coordination, operational reporting, and executive support capabilities relevant to roles such as:
-
-- Executive Assistant
-- Governance Coordinator
-- Operations Coordinator
-- Project Administrator
-- Committee Secretary
-- PMO Support
-- Executive Office Support
+- Governance coordination
+- Executive reporting
+- Dashboard design
+- KPI reporting
+- Action tracking
+- Committee administration
+- Operational reporting
+- Process improvement
+- Microsoft Excel
 
 ---
-
-## 👩‍💼 Author
-
-Elizabeth Dunphy
